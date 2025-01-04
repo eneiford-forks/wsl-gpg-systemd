@@ -5,7 +5,7 @@ wsl-gpg-systemd is a tool to allow you to easily access your Windows-based GPG k
 Installation is done entirely from within your WSL session. Since Windows executables have to reside on the Windows filesystem, the installer will download npiperelay and place it in `%APPDATA%/npiperelay/npiperelay.exe` by default.
 
 ```
-git clone https://github.com/demonbane/wsl-gpg-systemd
+git clone https://github.com/eneiford-forks/wsl-gpg-systemd
 cd wsl-gpg-systemd
 ./install
 ```
